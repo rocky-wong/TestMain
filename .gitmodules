@@ -1,0 +1,3 @@
+[submodule "hehe"]
+	path = hehe
+	url = https://github.com/rocky-wong/Test4Submodules.git
